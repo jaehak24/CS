@@ -27,3 +27,4 @@ Third-Party 프로그램에서 리소스 소유자를 대신하여 리소스 서
   
   
 3. Resource Owner Password Credentials Grant
+4. CORS 에러와 Oauth2.0
